@@ -1,0 +1,136 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* product_style_concept
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 9.0e-20170815\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-05 17:25+0000\n"
+"PO-Revision-Date: 2017-10-05 13:26-0400\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: es_MX\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#. module: product_style_concept
+#: model:ir.model.fields,field_description:product_style_concept.field_product_style_concept_name
+#: model:ir.ui.view,arch_db:product_style_concept.product_template_form_concept_add
+msgid "Concept"
+msgstr "Concepto"
+
+#. module: product_style_concept
+#: model:ir.ui.view,arch_db:product_style_concept.view_product_concept_form
+msgid "Concept Name"
+msgstr "Concepto"
+
+#. module: product_style_concept
+#: model:ir.actions.act_window,name:product_style_concept.action_open_style_concept_products
+msgid "Concept Products"
+msgstr "Productos del Concepto"
+
+#. module: product_style_concept
+#: model:ir.model.fields,field_description:product_style_concept.field_product_style_concept_product_ids
+msgid "Concepts Products"
+msgstr "Productos por Conceptos"
+
+#. module: product_style_concept
+#: model:ir.actions.act_window,help:product_style_concept.action_product_concept
+msgid "Create a Product Style Concept."
+msgstr "Registre un concepto de productos"
+
+#. module: product_style_concept
+#: model:ir.model.fields,field_description:product_style_concept.field_product_style_concept_create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: product_style_concept
+#: model:ir.model.fields,field_description:product_style_concept.field_product_style_concept_create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: product_style_concept
+#: model:ir.model.fields,field_description:product_style_concept.field_product_style_concept_description
+#: model:ir.ui.view,arch_db:product_style_concept.view_product_concept_form
+msgid "Description"
+msgstr "Descripción"
+
+#. module: product_style_concept
+#: model:ir.model.fields,field_description:product_style_concept.field_product_style_concept_display_name
+msgid "Display Name"
+msgstr "Nombre desplegado"
+
+#. module: product_style_concept
+#: model:ir.model.fields,field_description:product_style_concept.field_product_style_concept_id
+msgid "ID"
+msgstr "ID"
+
+#. module: product_style_concept
+#: model:ir.model.fields,field_description:product_style_concept.field_product_style_concept___last_update
+msgid "Last Modified on"
+msgstr "Ultima modificacion realizada"
+
+#. module: product_style_concept
+#: model:ir.model.fields,field_description:product_style_concept.field_product_style_concept_write_uid
+msgid "Last Updated by"
+msgstr "Ultima actualizacion por"
+
+#. module: product_style_concept
+#: model:ir.model.fields,field_description:product_style_concept.field_product_style_concept_write_date
+msgid "Last Updated on"
+msgstr "Ultima actualización realizada"
+
+#. module: product_style_concept
+#: model:ir.model.fields,field_description:product_style_concept.field_product_style_concept_products_count
+msgid "Number of products"
+msgstr "Cantidad de productos"
+
+#. module: product_style_concept
+#: model:ir.actions.act_window,name:product_style_concept.action_open_single_product_style_concept
+#: model:ir.ui.view,arch_db:product_style_concept.product_concept_search_form_view
+#: model:ir.ui.view,arch_db:product_style_concept.view_product_concept_form
+msgid "Product Style Concept"
+msgstr "Concepto del producto"
+
+#. module: product_style_concept
+#: model:ir.ui.menu,name:product_style_concept.menu_product_style_concept
+msgid "Product Style Concepts"
+msgstr "Conceptos del Producto"
+
+#. module: product_style_concept
+#: model:ir.model,name:product_style_concept.model_product_template
+msgid "Product Template"
+msgstr "Plantilla de producto"
+
+#. module: product_style_concept
+#: model:ir.ui.view,arch_db:product_style_concept.view_product_concept_form
+#: model:ir.ui.view,arch_db:product_style_concept.view_product_concept_kanban
+msgid "Products"
+msgstr "Productos"
+
+#. module: product_style_concept
+#: model:ir.model.fields,help:product_style_concept.field_product_template_product_style_concept_id
+msgid "Select a concept for this product"
+msgstr "Seleccione un concepto para este producto"
+
+#. module: product_style_concept
+#: model:ir.actions.act_window,name:product_style_concept.action_product_concept
+#: model:ir.model.fields,field_description:product_style_concept.field_product_template_product_style_concept_id
+#: model:ir.ui.view,arch_db:product_style_concept.view_product_template_search_concept
+msgid "Style Concept"
+msgstr "Concepto"
+
+#. module: product_style_concept
+#: model:ir.ui.view,arch_db:product_style_concept.product_template_form_concept_add
+msgid "concept"
+msgstr "concepto"
+
+#. module: product_style_concept
+#: model:ir.model,name:product_style_concept.model_product_style_concept
+#: model:ir.ui.view,arch_db:product_style_concept.view_product_concept_tree
+msgid "product.style.concept"
+msgstr "product.style.concept"
