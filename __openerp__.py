@@ -4,7 +4,7 @@
 
 {
     'name': 'Product Style Concepts Manager',
-    'version': '9.0.0.1.0',
+    'version': '9.0.1.0.0',
     'category': 'Product',
     'summary': 'Product Style Concepts Manager',
     'author': 'Humanytek',
